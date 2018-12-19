@@ -1,6 +1,6 @@
 {
   "name": "use-devtools-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use Redux DevTools with React hooks",
   "keywords": [
     "react",
@@ -49,5 +49,8 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "files": [
+    "lib"
+  ]
 }

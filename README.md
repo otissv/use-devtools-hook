@@ -4,7 +4,7 @@ Use React hooks with Redux DevTools Extension.
 
 ![alt text](devtools.jpg)
 
-> Warning, hooks are an **alpha** (but, awesome) feature of React.
+> Hooks are an **up coming** feature of React.
 > For more information see [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html).
 
 ## Installation

@@ -123,10 +123,6 @@ export function useDevtools([state, dispatch], initialState, name, reducer) {
         // Subscribe to dev tools messages
         devtools.subscribe(subscribeReducer)
       }
-
-      return () => {
-        devtools && devtools.disconnect()
-      }
     },
     [devtools]
   )
